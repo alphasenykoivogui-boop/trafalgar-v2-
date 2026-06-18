@@ -2,9 +2,9 @@
 ║  TRAFALGAR V2 👑  ║
 ╚════════════════════╝
 
-📄 UNBAN PREMIUM 1
+📄 BAN PREMIUM 1
 
-Ton texte ici
+mon texte ici
 
 🌐 Site :
 dev-trafalgar-d-law.netlify.app
